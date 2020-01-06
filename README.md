@@ -18,7 +18,7 @@ This extension has the following features:
 - If there is a password text box and a normal text box near each other, the password text box has less priority.
 - If the webpage has a text box with the autofocus attribute, it is selected first.
 
-# Customization
+## Customization
 To customize the keyboard shortcut:
 - Firefox: click on the hamburger menu -> Add-ons -> Click the Gear icon in the top right -> Manage Extension Shortcuts
 - Chrome:  click on the three dots menu -> More tools -> Extensions -> click on the hamburger menu -> Keyboard shortcuts
