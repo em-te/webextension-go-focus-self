@@ -1,0 +1,1 @@
+# webextension-go-focus-self
