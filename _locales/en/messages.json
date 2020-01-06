@@ -1,0 +1,13 @@
+{
+  "extensionName": {
+    "message": "Go Focus Self"
+  },
+
+  "extensionDescription": {
+    "message": "Press Ctrl+Shift+1 (customizable) when on a webpage with a text box to focus the text box closest to the center of the screen."
+  },
+
+  "alertNoFocus": {
+    "message": "No text box to focus."
+  }
+}
